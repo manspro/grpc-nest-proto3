@@ -1,0 +1,20 @@
+{
+  "name": "grpc-nest-proto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manspro/grpc-nest-proto3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manspro/grpc-nest-proto3/issues"
+  },
+  "homepage": "https://github.com/manspro/grpc-nest-proto3#readme",
+  "description": ""
+}
